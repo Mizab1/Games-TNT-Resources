@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/emergency_meeting.png",
+            "ascent": 80,
+            "height": 150,
+            "chars": [
+                "\uEff1"
+            ]
+        }
+    ]
+}

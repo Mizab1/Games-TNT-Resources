@@ -1,0 +1,18 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/wooden_hoe"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data": 111001}, "model": "item/storm_circle"},
+		{"predicate": {"custom_model_data": 111002}, "model": "item/emergency_meeting_table"},
+		{"predicate": {"custom_model_data": 111003}, "model": "item/villager1"},
+		{"predicate": {"custom_model_data": 111004}, "model": "item/villager2"},
+		{"predicate": {"custom_model_data": 111005}, "model": "item/villager3"},
+		{"predicate": {"custom_model_data": 111006}, "model": "item/bee"},
+		{"predicate": {"custom_model_data": 111007}, "model": "item/snow_golem"}
+		
+		
+	]
+}

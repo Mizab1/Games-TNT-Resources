@@ -1947,6 +1947,294 @@
 				"custom_model_data": 324
 			},
 			"model": "animated_java:item/fnaf_freddy/animatronic_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 325
+			},
+			"model": "animated_java:item/roblox_noob/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 326
+			},
+			"model": "animated_java:item/roblox_noob/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 327
+			},
+			"model": "animated_java:item/roblox_noob/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 328
+			},
+			"model": "animated_java:item/roblox_noob/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 329
+			},
+			"model": "animated_java:item/roblox_noob/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 330
+			},
+			"model": "animated_java:item/roblox_noob/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 331
+			},
+			"model": "animated_java:item/mutant_creeper/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 332
+			},
+			"model": "animated_java:item/mutant_creeper/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 333
+			},
+			"model": "animated_java:item/mutant_creeper/topbody"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 334
+			},
+			"model": "animated_java:item/mutant_creeper/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 335
+			},
+			"model": "animated_java:item/mutant_creeper/right_leg_front_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 336
+			},
+			"model": "animated_java:item/mutant_creeper/right_leg_front"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 337
+			},
+			"model": "animated_java:item/mutant_creeper/left_leg_front_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 338
+			},
+			"model": "animated_java:item/mutant_creeper/left_leg_front"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 339
+			},
+			"model": "animated_java:item/mutant_creeper/right_leg_back_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 340
+			},
+			"model": "animated_java:item/mutant_creeper/right_leg_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 341
+			},
+			"model": "animated_java:item/mutant_creeper/left_leg_back_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 342
+			},
+			"model": "animated_java:item/mutant_creeper/left_leg_back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 343
+			},
+			"model": "animated_java:item/bowser/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 344
+			},
+			"model": "animated_java:item/bowser/picos"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 345
+			},
+			"model": "animated_java:item/bowser/caparazon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "animated_java:item/bowser/dedo0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "animated_java:item/bowser/dedo1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "animated_java:item/bowser/dedo2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "animated_java:item/bowser/dedo3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "animated_java:item/bowser/hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "animated_java:item/bowser/arm0_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "animated_java:item/bowser/arm0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "animated_java:item/bowser/dedo4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "animated_java:item/bowser/dedo5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "animated_java:item/bowser/dedo6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "animated_java:item/bowser/dedo7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "animated_java:item/bowser/hand2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "animated_java:item/bowser/arm0_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "animated_java:item/bowser/arm1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "animated_java:item/bowser/boca"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "animated_java:item/bowser/pelo0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "animated_java:item/bowser/pelo2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "animated_java:item/bowser/pelo3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "animated_java:item/bowser/pelo1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "animated_java:item/bowser/pelo4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "animated_java:item/bowser/boca1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "animated_java:item/bowser/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "animated_java:item/bowser/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "animated_java:item/bowser/leg1_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 370
+			},
+			"model": "animated_java:item/bowser/leg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
+			"model": "animated_java:item/bowser/leg0_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "animated_java:item/bowser/leg0"
 		}
 	],
 	"animated_java": {
@@ -2300,6 +2588,66 @@
 					322,
 					323,
 					324
+				]
+			},
+			"roblox_noob": {
+				"used_ids": [
+					325,
+					326,
+					327,
+					328,
+					329,
+					330
+				]
+			},
+			"mutant_creeper": {
+				"used_ids": [
+					331,
+					332,
+					333,
+					334,
+					335,
+					336,
+					337,
+					338,
+					339,
+					340,
+					341,
+					342
+				]
+			},
+			"bowser": {
+				"used_ids": [
+					343,
+					344,
+					345,
+					346,
+					347,
+					348,
+					349,
+					350,
+					351,
+					352,
+					353,
+					354,
+					355,
+					356,
+					357,
+					358,
+					359,
+					360,
+					361,
+					362,
+					363,
+					364,
+					365,
+					366,
+					367,
+					368,
+					369,
+					370,
+					371,
+					372
 				]
 			}
 		}

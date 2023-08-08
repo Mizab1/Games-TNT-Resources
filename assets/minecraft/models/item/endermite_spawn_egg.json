@@ -1,0 +1,31 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    "textures": {
+        "layer0": "item/spawn_egg",
+        "layer1": "item/spawn_egg_overlay"
+    },
+	
+    "overrides":[
+     {"predicate": {"custom_model_data":110001}, "model":"item/tnt/dimension_tnt"},
+     {"predicate": {"custom_model_data":110002}, "model":"item/tnt/sandstorm_tnt"},
+     {"predicate": {"custom_model_data":110003}, "model":"item/tnt/acid_rain_tnt"},
+     {"predicate": {"custom_model_data":110004}, "model":"item/tnt/cloud_tnt"},
+     {"predicate": {"custom_model_data":110005}, "model":"item/tnt/music_tnt"},
+     {"predicate": {"custom_model_data":110006}, "model":"item/tnt/sun_tnt"},
+     {"predicate": {"custom_model_data":110007}, "model":"item/tnt/time_tnt"},
+     {"predicate": {"custom_model_data":110008}, "model":"item/tnt/invert_tnt"},
+     {"predicate": {"custom_model_data":110009}, "model":"item/tnt/lucky_tnt"},
+     {"predicate": {"custom_model_data":110010}, "model":"item/tnt/confetti_tnt"},
+     {"predicate": {"custom_model_data":110011}, "model":"item/tnt/laser_tnt"},
+     {"predicate": {"custom_model_data":110012}, "model":"item/tnt/puffcursion_tnt"},
+     {"predicate": {"custom_model_data":110013}, "model":"item/tnt/glitch_tnt"},
+     {"predicate": {"custom_model_data":110014}, "model":"item/tnt/ninja_tnt"},
+     {"predicate": {"custom_model_data":110015}, "model":"item/tnt/pirate_tnt"},
+     {"predicate": {"custom_model_data":110016}, "model":"item/tnt/warden_tnt"},
+     {"predicate": {"custom_model_data":110017}, "model":"item/tnt/drone_tnt"},
+     {"predicate": {"custom_model_data":110018}, "model":"item/tnt/betty_tnt"},
+     {"predicate": {"custom_model_data":110019}, "model":"item/tnt/uav_tnt"}
+     ]
+
+}
+

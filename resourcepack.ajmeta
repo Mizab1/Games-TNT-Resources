@@ -329,6 +329,74 @@
                 "assets\\animated_java\\textures\\item\\fnaf_freddy\\freddy_fazbear_v2.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "7a440785-ab4c-a461-0e5e-11597e3d464a": {
+            "project_name": "roblox_noob",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\roblox_noob\\left_leg.json",
+                "assets\\animated_java\\models\\item\\roblox_noob\\right_hand.json",
+                "assets\\animated_java\\models\\item\\roblox_noob\\right_leg.json",
+                "assets\\animated_java\\models\\item\\roblox_noob\\left_hand.json",
+                "assets\\animated_java\\models\\item\\roblox_noob\\head.json",
+                "assets\\animated_java\\models\\item\\roblox_noob\\chest.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "b79705f1-9307-f131-797c-a3890ffb12c1": {
+            "project_name": "mutant_creeper",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\mutant_creeper\\head.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\neck.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\topbody.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\body.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\right_leg_front_2.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\right_leg_front.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_front_2.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_front.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\right_leg_back_2.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\right_leg_back.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_back_2.json",
+                "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_back.json",
+                "assets\\animated_java\\textures\\item\\mutant_creeper\\mcreeper.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "a7f5e50a-f98c-dbfa-b0ec-0b204ff41283": {
+            "project_name": "bowser",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\bowser\\tail.json",
+                "assets\\animated_java\\models\\item\\bowser\\picos.json",
+                "assets\\animated_java\\models\\item\\bowser\\caparazon.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo0.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo1.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo2.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo3.json",
+                "assets\\animated_java\\models\\item\\bowser\\hand.json",
+                "assets\\animated_java\\models\\item\\bowser\\arm0_0.json",
+                "assets\\animated_java\\models\\item\\bowser\\arm0.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo4.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo5.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo6.json",
+                "assets\\animated_java\\models\\item\\bowser\\dedo7.json",
+                "assets\\animated_java\\models\\item\\bowser\\hand2.json",
+                "assets\\animated_java\\models\\item\\bowser\\arm0_1.json",
+                "assets\\animated_java\\models\\item\\bowser\\arm1.json",
+                "assets\\animated_java\\models\\item\\bowser\\boca.json",
+                "assets\\animated_java\\models\\item\\bowser\\pelo0.json",
+                "assets\\animated_java\\models\\item\\bowser\\pelo2.json",
+                "assets\\animated_java\\models\\item\\bowser\\pelo3.json",
+                "assets\\animated_java\\models\\item\\bowser\\pelo1.json",
+                "assets\\animated_java\\models\\item\\bowser\\pelo4.json",
+                "assets\\animated_java\\models\\item\\bowser\\boca1.json",
+                "assets\\animated_java\\models\\item\\bowser\\head.json",
+                "assets\\animated_java\\models\\item\\bowser\\body.json",
+                "assets\\animated_java\\models\\item\\bowser\\leg1_0.json",
+                "assets\\animated_java\\models\\item\\bowser\\leg1.json",
+                "assets\\animated_java\\models\\item\\bowser\\leg0_0.json",
+                "assets\\animated_java\\models\\item\\bowser\\leg0.json",
+                "assets\\animated_java\\textures\\item\\bowser\\bowser.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
