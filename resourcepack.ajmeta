@@ -357,7 +357,6 @@
                 "assets\\animated_java\\models\\item\\mutant_creeper\\right_leg_back.json",
                 "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_back_2.json",
                 "assets\\animated_java\\models\\item\\mutant_creeper\\left_leg_back.json",
-                "assets\\animated_java\\textures\\item\\mutant_creeper\\mcreeper.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
@@ -394,7 +393,77 @@
                 "assets\\animated_java\\models\\item\\bowser\\leg1.json",
                 "assets\\animated_java\\models\\item\\bowser\\leg0_0.json",
                 "assets\\animated_java\\models\\item\\bowser\\leg0.json",
-                "assets\\animated_java\\textures\\item\\bowser\\bowser.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "9cac2e11-a1ef-9fda-045c-812d9fd98e41": {
+            "project_name": "zelda",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\zelda\\bone7.json",
+                "assets\\animated_java\\models\\item\\zelda\\rightarm.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone8.json",
+                "assets\\animated_java\\models\\item\\zelda\\leftarm.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone4.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone3.json",
+                "assets\\animated_java\\models\\item\\zelda\\leftleg.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone2.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone.json",
+                "assets\\animated_java\\models\\item\\zelda\\rightleg.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone9.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone10.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone12.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone11.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone5.json",
+                "assets\\animated_java\\models\\item\\zelda\\bone6.json",
+                "assets\\animated_java\\models\\item\\zelda\\body.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "8fa486f7-eaad-fb98-9a0b-41333677dbd7": {
+            "project_name": "backdoor",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\backdoor\\bone5.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone15.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone14.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone17.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone16.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone9.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone8.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone6.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone24.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone23.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone21.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone13.json",
+                "assets\\animated_java\\models\\item\\backdoor\\rightarm.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone20.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone19.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone18.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone4.json",
+                "assets\\animated_java\\models\\item\\backdoor\\leftarm.json",
+                "assets\\animated_java\\models\\item\\backdoor\\body.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone22.json",
+                "assets\\animated_java\\models\\item\\backdoor\\head.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone11.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone10.json",
+                "assets\\animated_java\\models\\item\\backdoor\\rightleg.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone2.json",
+                "assets\\animated_java\\models\\item\\backdoor\\bone.json",
+                "assets\\animated_java\\models\\item\\backdoor\\leftleg.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "60dab0e4-7285-34f9-dcea-ed86ea4e0ef5": {
+            "project_name": "pikachu",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\pikachu\\open_eyes.json",
+                "assets\\animated_java\\models\\item\\pikachu\\closed_eyes.json",
+                "assets\\animated_java\\models\\item\\pikachu\\angry_eyes.json",
+                "assets\\animated_java\\models\\item\\pikachu\\head.json",
+                "assets\\animated_java\\models\\item\\pikachu\\body.json",
+                "assets\\animated_java\\models\\item\\pikachu\\right_arm.json",
+                "assets\\animated_java\\models\\item\\pikachu\\left_arm.json",
+                "assets\\animated_java\\models\\item\\pikachu\\tail.json",
+                "assets\\animated_java\\models\\item\\pikachu\\legs.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         }

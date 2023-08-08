@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "animated_java:item/mutant_creeper/mcreeper"
+		"0": "minecraft:custom/mcreeper"
 	},
 	"elements": [
 		{
