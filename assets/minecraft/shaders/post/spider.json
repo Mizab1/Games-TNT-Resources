@@ -1,0 +1,20 @@
+{
+    "targets": [
+        "largeBlur",
+        "smallBlur",
+        "temp",
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "blobs2",
+            "intarget": "minecraft:main",
+            "outtarget": "temp"
+        },
+        {
+            "name": "blit",
+            "intarget": "temp",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}
