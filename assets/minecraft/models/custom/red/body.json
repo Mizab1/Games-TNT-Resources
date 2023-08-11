@@ -1,0 +1,7 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"parent": "minecraft:custom/body",
+	"textures": {
+		"0": "minecraft:custom/button_red"
+	}
+}
