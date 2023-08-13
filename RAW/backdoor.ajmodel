@@ -14,7 +14,7 @@
 			"rig_export_folder": "",
 			"texture_export_folder": "",
 			"enable_advanced_resource_pack_settings": false,
-			"resource_pack_mcmeta": "C:\\Users\\Mizab\\AppData\\Roaming\\.minecraft\\resourcepacks\\Test Model\\pack.mcmeta",
+			"resource_pack_mcmeta": "C:\\Users\\Mizab\\AppData\\Roaming\\.minecraft\\resourcepacks\\Games TNT\\pack.mcmeta",
 			"verbose": true,
 			"exporter": "animated_java:datapack_exporter"
 		},
@@ -2089,10 +2089,10 @@
 			"frame_interpolate": false,
 			"visible": true,
 			"mode": "bitmap",
-			"saved": true,
+			"saved": false,
 			"uuid": "2ba19ffb-7f96-aa44-edcd-3ba6ab898595",
-			"relative_path": "../../AppData/Roaming/.minecraft/resourcepacks/Test Model/assets/minecraft/textures/custom/mystery_bacteria.png",
-			"source": "data:image/png;base64,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"
+			"source": "data:image/png;base64,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",
+			"relative_path": "../../../Test Model/assets/minecraft/textures/custom/mystery_bacteria.png"
 		}
 	],
 	"animations": [
@@ -2103,7 +2103,7 @@
 			"override": false,
 			"length": 0.75,
 			"snapping": 20,
-			"selected": true,
+			"selected": false,
 			"anim_time_update": "",
 			"blend_weight": "",
 			"start_delay": "",
@@ -2948,6 +2948,86 @@
 			"affected_bones": [],
 			"affected_bones_is_a_whitelist": false,
 			"animators": {}
+		},
+		{
+			"uuid": "bd90ef3a-801a-31ef-7fdc-71bf0b489a28",
+			"name": "animation.mystery_bacteria.attack",
+			"loop": "hold",
+			"override": false,
+			"length": 0.55,
+			"snapping": 20,
+			"selected": true,
+			"anim_time_update": "",
+			"blend_weight": "",
+			"start_delay": "",
+			"loop_delay": "",
+			"affected_bones": [],
+			"affected_bones_is_a_whitelist": false,
+			"animators": {
+				"4077e981-bcee-53b6-6192-2dfbc7ba35ce": {
+					"name": "bone18",
+					"type": "bone",
+					"keyframes": [
+						{
+							"channel": "rotation",
+							"data_points": [
+								{
+									"x": "0",
+									"y": "0",
+									"z": "0"
+								}
+							],
+							"uuid": "c039b0b2-c436-092b-dba5-9f70c43267ca",
+							"time": 0,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						},
+						{
+							"channel": "rotation",
+							"data_points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": -95
+								}
+							],
+							"uuid": "961623cb-8433-2ffa-cc92-2741133c52d0",
+							"time": 0.35,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						},
+						{
+							"channel": "rotation",
+							"data_points": [
+								{
+									"x": 178.11755,
+									"y": 77.45677,
+									"z": 83.65943
+								}
+							],
+							"uuid": "57747433-7324-7840-6ee4-a5898abbd235",
+							"time": 0.55,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						}
+					]
+				}
+			}
 		}
 	]
 }

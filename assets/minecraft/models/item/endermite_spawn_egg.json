@@ -6,26 +6,27 @@
     },
 	
     "overrides":[
-     {"predicate": {"custom_model_data":110001}, "model":"item/tnt/dimension_tnt"},
-     {"predicate": {"custom_model_data":110002}, "model":"item/tnt/sandstorm_tnt"},
-     {"predicate": {"custom_model_data":110003}, "model":"item/tnt/acid_rain_tnt"},
-     {"predicate": {"custom_model_data":110004}, "model":"item/tnt/cloud_tnt"},
-     {"predicate": {"custom_model_data":110005}, "model":"item/tnt/music_tnt"},
-     {"predicate": {"custom_model_data":110006}, "model":"item/tnt/sun_tnt"},
-     {"predicate": {"custom_model_data":110007}, "model":"item/tnt/time_tnt"},
-     {"predicate": {"custom_model_data":110008}, "model":"item/tnt/invert_tnt"},
-     {"predicate": {"custom_model_data":110009}, "model":"item/tnt/lucky_tnt"},
-     {"predicate": {"custom_model_data":110010}, "model":"item/tnt/confetti_tnt"},
-     {"predicate": {"custom_model_data":110011}, "model":"item/tnt/laser_tnt"},
-     {"predicate": {"custom_model_data":110012}, "model":"item/tnt/puffcursion_tnt"},
-     {"predicate": {"custom_model_data":110013}, "model":"item/tnt/glitch_tnt"},
-     {"predicate": {"custom_model_data":110014}, "model":"item/tnt/ninja_tnt"},
-     {"predicate": {"custom_model_data":110015}, "model":"item/tnt/pirate_tnt"},
-     {"predicate": {"custom_model_data":110016}, "model":"item/tnt/warden_tnt"},
-     {"predicate": {"custom_model_data":110017}, "model":"item/tnt/drone_tnt"},
-     {"predicate": {"custom_model_data":110018}, "model":"item/tnt/betty_tnt"},
-     {"predicate": {"custom_model_data":110019}, "model":"item/tnt/uav_tnt"}
-     ]
-
+        {"predicate": {"custom_model_data":110001}, "model":"item/tnt/amongus_imposter_tnt"},
+        {"predicate": {"custom_model_data":110002}, "model":"item/tnt/amongus_meeting_tnt"},
+        {"predicate": {"custom_model_data":110003}, "model":"item/tnt/huggy_plushes_tnt"},
+        {"predicate": {"custom_model_data":110004}, "model":"item/tnt/poppy_huggy_tnt"},
+        {"predicate": {"custom_model_data":110005}, "model":"item/tnt/fnaf_animatronics_tnt"},
+        {"predicate": {"custom_model_data":110006}, "model":"item/tnt/fnaf_darkness_tnt"},
+        {"predicate": {"custom_model_data":110007}, "model":"item/tnt/fortnite_storm_tnt"},
+        {"predicate": {"custom_model_data":110008}, "model":"item/tnt/fortnite_llama_tnt"},
+        {"predicate": {"custom_model_data":110009}, "model":"item/tnt/roblox_animals_tnt"},
+        {"predicate": {"custom_model_data":110010}, "model":"item/tnt/roblox_noob_tnt"},
+        {"predicate": {"custom_model_data":110011}, "model":"item/tnt/minecraft_creeper_tnt"},
+        {"predicate": {"custom_model_data":110012}, "model":"item/tnt/minecraft_enderman_tnt"},
+        {"predicate": {"custom_model_data":110013}, "model":"item/tnt/mario_mystery_tnt"},
+        {"predicate": {"custom_model_data":110014}, "model":"item/tnt/mario_bowser_tnt"},
+        {"predicate": {"custom_model_data":110015}, "model":"item/tnt/poppy_mommy_tnt"},
+        {"predicate": {"custom_model_data":110016}, "model":"item/tnt/backrooms_levels_tnt"},
+        {"predicate": {"custom_model_data":110017}, "model":"item/tnt/backrooms_entity_tnt"},
+        {"predicate": {"custom_model_data":110018}, "model":"item/tnt/pokemon_pikachu_tnt"},
+        {"predicate": {"custom_model_data":110019}, "model":"item/tnt/pokemon_pokeball_tnt"},
+        {"predicate": {"custom_model_data":110020}, "model":"item/tnt/rainbow_missile_tnt"},
+        {"predicate": {"custom_model_data":110021}, "model":"item/tnt/rainbow_dino_tnt"}
+    ]
 }
 

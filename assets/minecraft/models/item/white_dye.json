@@ -2553,6 +2553,96 @@
 				"custom_model_data": 425
 			},
 			"model": "animated_java:item/pikachu/legs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 426
+			},
+			"model": "animated_java:item/rainbow_red/eye1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 427
+			},
+			"model": "animated_java:item/rainbow_red/eye2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 428
+			},
+			"model": "animated_java:item/rainbow_red/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 429
+			},
+			"model": "animated_java:item/rainbow_red/controller"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 430
+			},
+			"model": "animated_java:item/rainbow_red/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 431
+			},
+			"model": "animated_java:item/rainbow_red/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 432
+			},
+			"model": "animated_java:item/rainbow_red/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 433
+			},
+			"model": "animated_java:item/rainbow_red/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 434
+			},
+			"model": "animated_java:item/rainbow_red/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 435
+			},
+			"model": "animated_java:item/rainbow_cyan/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 436
+			},
+			"model": "animated_java:item/rainbow_cyan/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 437
+			},
+			"model": "animated_java:item/rainbow_cyan/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 438
+			},
+			"model": "animated_java:item/rainbow_cyan/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 439
+			},
+			"model": "animated_java:item/rainbow_cyan/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440
+			},
+			"model": "animated_java:item/rainbow_cyan/leftleg"
 		}
 	],
 	"animated_java": {
@@ -3031,6 +3121,29 @@
 					423,
 					424,
 					425
+				]
+			},
+			"rainbow_red": {
+				"used_ids": [
+					426,
+					427,
+					428,
+					429,
+					430,
+					431,
+					432,
+					433,
+					434
+				]
+			},
+			"rainbow_cyan": {
+				"used_ids": [
+					435,
+					436,
+					437,
+					438,
+					439,
+					440
 				]
 			}
 		}

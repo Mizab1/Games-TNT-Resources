@@ -168,6 +168,7 @@
                 "assets\\animated_java\\models\\item\\huggy_wuggy\\head.json",
                 "assets\\animated_java\\models\\item\\huggy_wuggy\\body.json",
                 "assets\\animated_java\\models\\item\\huggy_wuggy\\body2.json",
+                "assets\\animated_java\\textures\\item\\huggy_wuggy\\huggy_wuggy_bd.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
@@ -393,6 +394,7 @@
                 "assets\\animated_java\\models\\item\\bowser\\leg1.json",
                 "assets\\animated_java\\models\\item\\bowser\\leg0_0.json",
                 "assets\\animated_java\\models\\item\\bowser\\leg0.json",
+                "assets\\animated_java\\textures\\item\\bowser\\bowser.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
@@ -449,6 +451,7 @@
                 "assets\\animated_java\\models\\item\\backdoor\\bone2.json",
                 "assets\\animated_java\\models\\item\\backdoor\\bone.json",
                 "assets\\animated_java\\models\\item\\backdoor\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\backdoor\\mystery_bacteria.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
@@ -464,6 +467,33 @@
                 "assets\\animated_java\\models\\item\\pikachu\\left_arm.json",
                 "assets\\animated_java\\models\\item\\pikachu\\tail.json",
                 "assets\\animated_java\\models\\item\\pikachu\\legs.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "ccbfa596-4669-8d9e-6f6c-b841c76441ce": {
+            "project_name": "rainbow_red",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rainbow_red\\eye1.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\eye2.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\head.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\controller.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\rightarm.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\leftarm.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\body.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\rightleg.json",
+                "assets\\animated_java\\models\\item\\rainbow_red\\leftleg.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "cbd35505-f4c7-616f-a026-59c688cac6d5": {
+            "project_name": "rainbow_cyan",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\jaw.json",
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\head.json",
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\neck.json",
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\body.json",
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\rightleg.json",
+                "assets\\animated_java\\models\\item\\rainbow_cyan\\leftleg.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         }

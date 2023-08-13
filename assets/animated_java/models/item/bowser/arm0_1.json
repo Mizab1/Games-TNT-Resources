@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:custom/bowser"
+		"0": "animated_java:item/bowser/bowser"
 	},
 	"elements": [
 		{
