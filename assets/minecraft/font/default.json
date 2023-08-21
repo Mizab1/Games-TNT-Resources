@@ -3,10 +3,55 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/emergency_meeting.png",
-            "ascent": 80,
-            "height": 150,
+            "ascent": 60,
+            "height": 120,
             "chars": [
                 "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death_anim/1.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death_anim/2.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death_anim/3.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death_anim/4.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death_anim/5.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": [
+                "\uEff6"
             ]
         }
     ]

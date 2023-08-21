@@ -116,5 +116,44 @@
         "preload": false
       }
     ]
+  },
+  "sfx.meeting": {
+    "sounds": [
+      {
+        "name": "sfx/meeting",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
+  "sfx.fnaf_scream": {
+    "sounds": [
+      {
+        "name": "sfx/fnaf_scream",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
+  "sfx.imposter_kill": {
+    "sounds": [
+      {
+        "name": "sfx/imposter_kill",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
   }
 }

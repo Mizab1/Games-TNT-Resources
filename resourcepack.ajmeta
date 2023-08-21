@@ -496,6 +496,73 @@
                 "assets\\animated_java\\models\\item\\rainbow_cyan\\leftleg.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "52266348-60ec-ede2-704d-d55a9fae3941": {
+            "project_name": "penguin",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\penguin\\bufanda.json",
+                "assets\\animated_java\\models\\item\\penguin\\tail.json",
+                "assets\\animated_java\\models\\item\\penguin\\cabeza.json",
+                "assets\\animated_java\\models\\item\\penguin\\ala0.json",
+                "assets\\animated_java\\models\\item\\penguin\\ala1.json",
+                "assets\\animated_java\\models\\item\\penguin\\body.json",
+                "assets\\animated_java\\models\\item\\penguin\\leg0.json",
+                "assets\\animated_java\\models\\item\\penguin\\leg1.json",
+                "assets\\animated_java\\textures\\item\\penguin\\penguin_v2.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "7f238147-1cf7-da78-3b7e-6dd286096b64": {
+            "project_name": "deer",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\deer\\boca.json",
+                "assets\\animated_java\\models\\item\\deer\\oreja0.json",
+                "assets\\animated_java\\models\\item\\deer\\oreja1.json",
+                "assets\\animated_java\\models\\item\\deer\\cabeza.json",
+                "assets\\animated_java\\models\\item\\deer\\cabeza0.json",
+                "assets\\animated_java\\models\\item\\deer\\tail.json",
+                "assets\\animated_java\\models\\item\\deer\\body.json",
+                "assets\\animated_java\\models\\item\\deer\\leg33.json",
+                "assets\\animated_java\\models\\item\\deer\\leg3.json",
+                "assets\\animated_java\\models\\item\\deer\\leg11.json",
+                "assets\\animated_java\\models\\item\\deer\\leg1.json",
+                "assets\\animated_java\\models\\item\\deer\\leg00.json",
+                "assets\\animated_java\\models\\item\\deer\\leg0.json",
+                "assets\\animated_java\\models\\item\\deer\\leg22.json",
+                "assets\\animated_java\\models\\item\\deer\\leg2.json",
+                "assets\\animated_java\\textures\\item\\deer\\deer_0.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "1802b3f9-850d-173c-4a67-31c7aa3f260c": {
+            "project_name": "elephant",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\elephant\\leg1_0.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg1.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg0_0.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg0.json",
+                "assets\\animated_java\\models\\item\\elephant\\tail3.json",
+                "assets\\animated_java\\models\\item\\elephant\\tail2.json",
+                "assets\\animated_java\\models\\item\\elephant\\tail.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa5.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa4.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa3.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa2.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa1.json",
+                "assets\\animated_java\\models\\item\\elephant\\trompa0.json",
+                "assets\\animated_java\\models\\item\\elephant\\oreja0.json",
+                "assets\\animated_java\\models\\item\\elephant\\oreja1.json",
+                "assets\\animated_java\\models\\item\\elephant\\colmillo0.json",
+                "assets\\animated_java\\models\\item\\elephant\\colmillo1.json",
+                "assets\\animated_java\\models\\item\\elephant\\cabeza.json",
+                "assets\\animated_java\\models\\item\\elephant\\body.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg2_1.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg3.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg2_0.json",
+                "assets\\animated_java\\models\\item\\elephant\\leg2.json",
+                "assets\\animated_java\\textures\\item\\elephant\\elephant_v2.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

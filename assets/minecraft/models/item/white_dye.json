@@ -2643,6 +2643,282 @@
 				"custom_model_data": 440
 			},
 			"model": "animated_java:item/rainbow_cyan/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 441
+			},
+			"model": "animated_java:item/penguin/bufanda"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 442
+			},
+			"model": "animated_java:item/penguin/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 443
+			},
+			"model": "animated_java:item/penguin/cabeza"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 444
+			},
+			"model": "animated_java:item/penguin/ala0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 445
+			},
+			"model": "animated_java:item/penguin/ala1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 446
+			},
+			"model": "animated_java:item/penguin/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 447
+			},
+			"model": "animated_java:item/penguin/leg0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 448
+			},
+			"model": "animated_java:item/penguin/leg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 449
+			},
+			"model": "animated_java:item/deer/boca"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 450
+			},
+			"model": "animated_java:item/deer/oreja0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 451
+			},
+			"model": "animated_java:item/deer/oreja1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 452
+			},
+			"model": "animated_java:item/deer/cabeza"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 453
+			},
+			"model": "animated_java:item/deer/cabeza0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 454
+			},
+			"model": "animated_java:item/deer/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 455
+			},
+			"model": "animated_java:item/deer/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 456
+			},
+			"model": "animated_java:item/deer/leg33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 457
+			},
+			"model": "animated_java:item/deer/leg3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 458
+			},
+			"model": "animated_java:item/deer/leg11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 459
+			},
+			"model": "animated_java:item/deer/leg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 460
+			},
+			"model": "animated_java:item/deer/leg00"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 461
+			},
+			"model": "animated_java:item/deer/leg0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 462
+			},
+			"model": "animated_java:item/deer/leg22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 463
+			},
+			"model": "animated_java:item/deer/leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 464
+			},
+			"model": "animated_java:item/elephant/leg1_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 465
+			},
+			"model": "animated_java:item/elephant/leg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 466
+			},
+			"model": "animated_java:item/elephant/leg0_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 467
+			},
+			"model": "animated_java:item/elephant/leg0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 468
+			},
+			"model": "animated_java:item/elephant/tail3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 469
+			},
+			"model": "animated_java:item/elephant/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 470
+			},
+			"model": "animated_java:item/elephant/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 471
+			},
+			"model": "animated_java:item/elephant/trompa5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 472
+			},
+			"model": "animated_java:item/elephant/trompa4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 473
+			},
+			"model": "animated_java:item/elephant/trompa3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 474
+			},
+			"model": "animated_java:item/elephant/trompa2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 475
+			},
+			"model": "animated_java:item/elephant/trompa1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 476
+			},
+			"model": "animated_java:item/elephant/trompa0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 477
+			},
+			"model": "animated_java:item/elephant/oreja0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 478
+			},
+			"model": "animated_java:item/elephant/oreja1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 479
+			},
+			"model": "animated_java:item/elephant/colmillo0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 480
+			},
+			"model": "animated_java:item/elephant/colmillo1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 481
+			},
+			"model": "animated_java:item/elephant/cabeza"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 482
+			},
+			"model": "animated_java:item/elephant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 483
+			},
+			"model": "animated_java:item/elephant/leg2_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 484
+			},
+			"model": "animated_java:item/elephant/leg3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 485
+			},
+			"model": "animated_java:item/elephant/leg2_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 486
+			},
+			"model": "animated_java:item/elephant/leg2"
 		}
 	],
 	"animated_java": {
@@ -3144,6 +3420,64 @@
 					438,
 					439,
 					440
+				]
+			},
+			"penguin": {
+				"used_ids": [
+					441,
+					442,
+					443,
+					444,
+					445,
+					446,
+					447,
+					448
+				]
+			},
+			"deer": {
+				"used_ids": [
+					449,
+					450,
+					451,
+					452,
+					453,
+					454,
+					455,
+					456,
+					457,
+					458,
+					459,
+					460,
+					461,
+					462,
+					463
+				]
+			},
+			"elephant": {
+				"used_ids": [
+					464,
+					465,
+					466,
+					467,
+					468,
+					469,
+					470,
+					471,
+					472,
+					473,
+					474,
+					475,
+					476,
+					477,
+					478,
+					479,
+					480,
+					481,
+					482,
+					483,
+					484,
+					485,
+					486
 				]
 			}
 		}
