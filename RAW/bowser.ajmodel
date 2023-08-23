@@ -10126,7 +10126,7 @@
 			"override": false,
 			"length": 0.5,
 			"snapping": 20,
-			"selected": false,
+			"selected": true,
 			"anim_time_update": "",
 			"blend_weight": "",
 			"start_delay": "",
@@ -10726,6 +10726,48 @@
 							"bezier_right_value": [0, 0, 0]
 						}
 					]
+				},
+				"effects": {
+					"name": "Effects",
+					"type": "effect",
+					"keyframes": [
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "playsound minecraft:sfx.bowser_step master @a ~ ~ ~ 1 1.8",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "0c38ad1b-a9fa-023a-f575-61adaf10751d",
+							"time": 0.15,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						},
+						{
+							"channel": "commands",
+							"data_points": [
+								{
+									"commands": "playsound minecraft:sfx.bowser_step master @a ~ ~ ~ 1 1.8",
+									"executeCondition": ""
+								}
+							],
+							"uuid": "81f2be6a-d8c4-7fb7-f3ec-d5a76446ea6b",
+							"time": 0.35,
+							"color": -1,
+							"interpolation": "linear",
+							"bezier_linked": true,
+							"bezier_left_time": [-0.1, -0.1, -0.1],
+							"bezier_left_value": [0, 0, 0],
+							"bezier_right_time": [0.1, 0.1, 0.1],
+							"bezier_right_value": [0, 0, 0]
+						}
+					]
 				}
 			}
 		},
@@ -11005,7 +11047,7 @@
 			"override": false,
 			"length": 0.05,
 			"snapping": 20,
-			"selected": true,
+			"selected": false,
 			"anim_time_update": "",
 			"blend_weight": "",
 			"start_delay": "",

@@ -2919,6 +2919,252 @@
 				"custom_model_data": 486
 			},
 			"model": "animated_java:item/elephant/leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 487
+			},
+			"model": "animated_java:item/backdoor_worm/fangs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 488
+			},
+			"model": "animated_java:item/backdoor_worm/fangs2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 489
+			},
+			"model": "animated_java:item/backdoor_worm/fangs3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 490
+			},
+			"model": "animated_java:item/backdoor_worm/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 491
+			},
+			"model": "animated_java:item/backdoor_worm/body1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 492
+			},
+			"model": "animated_java:item/backdoor_worm/body2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 493
+			},
+			"model": "animated_java:item/backdoor_worm/body3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 494
+			},
+			"model": "animated_java:item/backdoor_worm/body4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 495
+			},
+			"model": "animated_java:item/backdoor_worm/stinger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 496
+			},
+			"model": "animated_java:item/backdoor_worm/body5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 497
+			},
+			"model": "animated_java:item/backdoor_hound/headmain"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 498
+			},
+			"model": "animated_java:item/backdoor_hound/hair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 499
+			},
+			"model": "animated_java:item/backdoor_hound/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 500
+			},
+			"model": "animated_java:item/backdoor_hound/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "animated_java:item/backdoor_hound/top2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "animated_java:item/backdoor_hound/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "animated_java:item/backdoor_hound/hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 504
+			},
+			"model": "animated_java:item/backdoor_hound/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 505
+			},
+			"model": "animated_java:item/backdoor_hound/top3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 506
+			},
+			"model": "animated_java:item/backdoor_hound/top4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 507
+			},
+			"model": "animated_java:item/backdoor_hound/hand2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 508
+			},
+			"model": "animated_java:item/backdoor_hound/bottom2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 509
+			},
+			"model": "animated_java:item/backdoor_hound/top5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 510
+			},
+			"model": "animated_java:item/backdoor_hound/foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 511
+			},
+			"model": "animated_java:item/backdoor_hound/bottom3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 512
+			},
+			"model": "animated_java:item/backdoor_hound/top6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 513
+			},
+			"model": "animated_java:item/backdoor_hound/foot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 514
+			},
+			"model": "animated_java:item/backdoor_hound/bottom4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 515
+			},
+			"model": "animated_java:item/backdoor_watcher/eye"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 516
+			},
+			"model": "animated_java:item/backdoor_watcher/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 517
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 518
+			},
+			"model": "animated_java:item/backdoor_watcher/top4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 519
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 520
+			},
+			"model": "animated_java:item/backdoor_watcher/top2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 521
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 522
+			},
+			"model": "animated_java:item/backdoor_watcher/top5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 523
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 524
+			},
+			"model": "animated_java:item/backdoor_watcher/top3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 525
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 526
+			},
+			"model": "animated_java:item/backdoor_watcher/top6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 527
+			},
+			"model": "animated_java:item/backdoor_watcher/bottom6"
 		}
 	],
 	"animated_java": {
@@ -3478,6 +3724,59 @@
 					484,
 					485,
 					486
+				]
+			},
+			"backdoor_worm": {
+				"used_ids": [
+					487,
+					488,
+					489,
+					490,
+					491,
+					492,
+					493,
+					494,
+					495,
+					496
+				]
+			},
+			"backdoor_hound": {
+				"used_ids": [
+					497,
+					498,
+					499,
+					500,
+					501,
+					502,
+					503,
+					504,
+					505,
+					506,
+					507,
+					508,
+					509,
+					510,
+					511,
+					512,
+					513,
+					514
+				]
+			},
+			"backdoor_watcher": {
+				"used_ids": [
+					515,
+					516,
+					517,
+					518,
+					519,
+					520,
+					521,
+					522,
+					523,
+					524,
+					525,
+					526,
+					527
 				]
 			}
 		}

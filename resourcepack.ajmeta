@@ -563,6 +563,68 @@
                 "assets\\animated_java\\textures\\item\\elephant\\elephant_v2.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "a69ec2a7-5c3e-b159-fcd2-cf3ac844a498": {
+            "project_name": "backdoor_worm",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\backdoor_worm\\fangs.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\fangs2.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\fangs3.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\head.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\body1.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\body2.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\body3.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\body4.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\stinger.json",
+                "assets\\animated_java\\models\\item\\backdoor_worm\\body5.json",
+                "assets\\animated_java\\textures\\item\\backdoor_worm\\memoryworm.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "9e490993-75e5-31fc-f829-a5bebcf3ceca": {
+            "project_name": "backdoor_hound",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\backdoor_hound\\headmain.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\hair.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\back.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\body.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top2.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\hand.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\bottom.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top3.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top4.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\hand2.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\bottom2.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top5.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\foot.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\bottom3.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\top6.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\foot2.json",
+                "assets\\animated_java\\models\\item\\backdoor_hound\\bottom4.json",
+                "assets\\animated_java\\textures\\item\\backdoor_hound\\hound.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "4ceab31b-e985-f3a8-baa7-34a5f76eff80": {
+            "project_name": "backdoor_watcher",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\eye.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top4.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom4.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top2.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom2.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top5.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom5.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top3.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom3.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\top6.json",
+                "assets\\animated_java\\models\\item\\backdoor_watcher\\bottom6.json",
+                "assets\\animated_java\\textures\\item\\backdoor_watcher\\watcher.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

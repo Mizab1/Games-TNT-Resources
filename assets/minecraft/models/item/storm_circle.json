@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [512, 512],
 	"textures": {
-		"0": "block/blue_stained_glass",
-		"particle": "block/blue_stained_glass"
+		"0": "custom/storm_circle",
+		"particle": "custom/storm_circle"
 	},
 	"elements": [
 		{

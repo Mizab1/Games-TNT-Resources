@@ -39,6 +39,46 @@
       }
     ]
   },
+  "sfx.bowser": {
+    "sounds": [
+      {
+        "name": "sfx/bowser_grunt",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      },
+      {
+        "name": "sfx/bowser_laugh",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      },
+      {
+        "name": "sfx/bowser_roar",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      },
+      {
+        "name": "sfx/bowser_showtime",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
   "sfx.mommy_1": {
     "sounds": [
       {
@@ -147,6 +187,45 @@
     "sounds": [
       {
         "name": "sfx/imposter_kill",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
+  "sfx.star": {
+    "sounds": [
+      {
+        "name": "sfx/star",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
+  "sfx.mushroom": {
+    "sounds": [
+      {
+        "name": "sfx/mushroom",
+        "volume": 1,
+        "pitch": 1,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false
+      }
+    ]
+  },
+  "sfx.bowser_step": {
+    "sounds": [
+      {
+        "name": "sfx/bowser_step",
         "volume": 1,
         "pitch": 1,
         "weight": 1,
